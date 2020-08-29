@@ -17,6 +17,7 @@
       <img width="50%" :src="fileList[0].url" alt="">
     </el-dialog>
   </div>
+  
 </template>
 <script>
    import {policy} from './policy'
